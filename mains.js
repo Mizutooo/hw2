@@ -82,3 +82,5 @@
 
 // const mass = ['Alex', 'Anna', 'Oleg', '1', '2', '3', true]
 // console.log(mass);
+
+// FINAL
